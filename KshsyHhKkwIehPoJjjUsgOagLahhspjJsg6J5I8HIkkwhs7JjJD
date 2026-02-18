@@ -1,6 +1,8 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="TERDETEKSI LIMIT DEVICE", SILAHKAN AKTIVASI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="@PLAYLIST OFF", SILAHKAN AKTIVASI
 https://raw.githubusercontent.com/c0mrade10/mpd/main/saweria.ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="AKTIVASI PLAYLIST", di www.saweria.co/MayToko2 ]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="AKTIVASI PLAYLIST", di www.saweria.co/MayToko2 
 https://raw.githubusercontent.com/c0mrade10/mpd/main/saweria.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" group-title="Di www.saweria.co/MayToko2", di www.saweria.co/MayToko2
+https://raw.githubusercontent.com/c0mrade10/mpd/main/saweria.ts
